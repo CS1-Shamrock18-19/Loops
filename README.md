@@ -27,24 +27,26 @@ Use the functions that you wrote above to answer the following questions.  To so
 
 
 ### Patterns
-1.  1 + 2 + 3 + 4 + ... + 1500 = ?
+For each questions, type the answer instead of the question-mark (?) once you use the program to solve for it.  You will need to delete the checking code and write your own console.log() statements.
 
 
-2.  1 + 2 + 3 + 4 + ... + 2000000 = ?
+-  **Q1:**  1 + 2 + 3 + 4 + ... + 1500 = ?
 
 
-3.  -80 + -20 + 40 + 100 + ... (50 times) = ?
+-  **Q2:**  1 + 2 + 3 + 4 + ... + 2000000 = ?
 
 
-4.  4 + 12 + 36 + 108 + ... + (under 50,000) = ?
+-  **Q3:**  -80 + -20 + 40 + 100 + ... (50 times) = ?
 
 
-5.  7 + 14 + 28 + 56 + ... + (under 50,000) = ?
+-  **Q4:**  4 + 12 + 36 + 108 + ... + (under 50,000) = ?
 
 
-6.  Which answer was larger, question 2 or question 3?  Why do you think so?
+-  **Q5:**  7 + 14 + 28 + 56 + ... + (under 50,000) = ?
 
 
+-  **Q6:**  Which answer was larger, question 2 or question 3?  Why do you think so?
 
-7.  2 + -6 + 18 + -54 + 162 + ... (under 1000000)= ?
+
+-  **Q7:**  2 + -6 + 18 + -54 + 162 + ... (under 1000000)= ?
 
